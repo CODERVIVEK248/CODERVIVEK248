@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vivek 
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**Web Developer || Android Developer**
 
 Email Me 👉 ✉️ **kumarvermavivek248@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **kumarvermavivek248@gmail.com** For Collaboration/Project 
 - 💬 **Ask me about:** Collaboration, 
 - 📫 **How to reach me:**kumarvermavivek248@gmail.com
 - 😄 **Pronouns:** Vivek kumar
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Coding and Coding Love Me
 
 ## 🔗 I am a Content Creator. 😊😊
 
